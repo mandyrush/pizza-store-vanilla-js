@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Neapolitan Pizzas",
+    "products": [
+      {
+        "id": 11,
+        "name": "Margherita",
+        "price": 12.5,
+        "description": "Marzano tomatoes, mozarella cheese, basil",
+        "image": ""
+      },
+      {
+        "id": 12,
+        "name": "Hawaiian",
+        "price": 13.75,
+        "description": "Tomatoe sauce, canadian bacon, pinapple, mozarella cheese",
+        "image": ""
+      },
+      {
+        "id": 13,
+        "name": "Herb",
+        "price": 13.25,
+        "description": "Olive oil and garlic base, fresh herbs, smoked gouda, roasted cherry tomatoes",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Dessert Pizzas",
+    "products": [
+      {
+        "id": 21,
+        "name": "Berry chocolate",
+        "price": 10.75,
+        "description": "Raspberries, dark chocolate, marshmellows, fresh basil",
+        "image": ""
+      },
+      {
+        "id": 22,
+        "name": "Almond butter banana",
+        "price": 11.75,
+        "description": "Almond butter, banana, graham cracker crumble",
+        "image": ""
+      },
+      {
+        "id": 23,
+        "name": "Smores",
+        "price": 10.85,
+        "description": "Roasted marshmellows, chocolate chunks, graham cracker crumble",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "name": "Drinks",
+    "products": [
+      {
+        "id": 41,
+        "name": "Beer",
+        "price": 5.8,
+        "description": "Pilsner, stout, red ale, guiness, IPA",
+        "image": ""
+      },
+      {
+        "id": 42,
+        "name": "Wine",
+        "price": 7.75,
+        "description": "Chardonay, Malbec, Tempernillo, Rose, Pinot Noir",
+        "image": ""
+      },
+      {
+        "id": 43,
+        "name": "Soft drinks",
+        "price": 1.5,
+        "description": "Coke producs, Pepsi products, coffee, tea, lemonade",
+        "image": ""
+      }
+    ]
+  }
+]
